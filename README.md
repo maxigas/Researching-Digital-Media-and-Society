@@ -8,7 +8,7 @@ Before getting started with the notebooks, please run the following steps
 2. Clone the project repository
    
    ```
-   git clone git clone https://github.com/CousinThrockmorton/Researching-Digital-Media-and-Society.git
+   git clone git clone https://github.com/CousinThrockmorton/Researching-Digital-Media-and-Society.git where/you/want_it
    ```
    
 4. Navigate to where you cloned the repository

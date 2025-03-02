@@ -14,7 +14,7 @@ Before getting started with the notebooks, please run the following steps
 4. Navigate to where you cloned the repository
    
    ```
-   cd /where_ever/you/put/you/git/cloned/your/repository
+   cd /where_ever/you/put/you/cloned/therepository
    ```
    
 6. Create a virtual environment using:
